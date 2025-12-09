@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "outputDirectory": ".medusa/server",
+  "installCommand": "yarn install",
+  "framework": null,
+  "devCommand": "yarn dev"
+}
